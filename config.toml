@@ -10,7 +10,7 @@ author              = "Quentin Neyrat"
 title               = "Quentin Neyrat"
 pygmentsuseclasses  = true
 pluralizelisttitles = false
-googleAnalytics     = "UA-123-45"
+googleAnalytics     = "UA-109845043-1"
 
 [permalinks]
 blog  = "blog/:slug/"
