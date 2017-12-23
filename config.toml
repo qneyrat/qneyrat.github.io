@@ -48,7 +48,7 @@ github                 = "//github.com/qneyrat"
 lang                   = "en"
 linkedin               = "//linkedin.com/in/quentin-neyrat"
 noshowreadtime         = false                         # if true, don't show "<x> minutes read" in posts
-selfintro              = "Web Builder, Symfony, Go, Node.js"
+selfintro              = "Backend engineer, Symfony, Go, Node.js"
 twitter                = "//twitter.com/qneyrat"
 
 highlightjs            = true
