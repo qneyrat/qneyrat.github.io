@@ -13,25 +13,19 @@ pluralizelisttitles = false
 googleAnalytics     = "UA-109845043-1"
 
 [permalinks]
-blog  = "blog/:slug/"
+posts  = "posts/:slug/"
 
 [[menu.main]]
-name                   = "Blog"
+name                   = "Posts"
 weight                 = -120
-identifier             = "blog"
-url                    = "/blog/"
+identifier             = "posts"
+url                    = "/posts/"
 
 [[menu.main]]
 name                   = "About"
 weight                 = -110
 identifier             = "about"
 url                    = "/about/"
-
-[[menu.main]]
-name                   = "Code"
-weight                 = -100
-identifier             = "code"
-url                    = "/code/"
 
 [params]
 latestpostscount       = 5                             # how many posts to display on the home page
@@ -40,7 +34,7 @@ author                 = "Quentin Neyrat"
 cachebuster            = true                          # add the current unix timestamp in query string for cache busting css assets
 dateform               = "Jan 2, 2006"
 dateformfull           = "Mon Jan 2 2006 15:04:05 MST"
-description            = "Web Builder, Symfony, Go, Node.js"
+description            = "Software engineer from Paris, France"
 email                  = "quentin.neyrat@gmail.com"
 extracssfiles          = [  ]  # [ "/css/override.css" ] In your `static` directory, add/remove files as necessary.
 faviconfile            = "img/leaf.ico"
@@ -48,7 +42,7 @@ github                 = "//github.com/qneyrat"
 lang                   = "en"
 linkedin               = "//linkedin.com/in/quentin-neyrat"
 noshowreadtime         = false                         # if true, don't show "<x> minutes read" in posts
-selfintro              = "Backend engineer, Symfony, Go, Node.js"
+selfintro              = "Software engineer from Paris, France"
 twitter                = "//twitter.com/qneyrat"
 
 highlightjs            = true

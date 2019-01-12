@@ -1,4 +1,4 @@
 ---
-title: "Code"
+title: "Posts"
 draft: false
 ---
