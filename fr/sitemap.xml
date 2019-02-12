@@ -3,47 +3,47 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://qneyrat.github.io/fr/categories/</loc>
+    <loc>https://quentin.neyrat.io/fr/categories/</loc>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://qneyrat.github.io/categories/"
+                href="https://quentin.neyrat.io/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://qneyrat.github.io/fr/categories/"
+                href="https://quentin.neyrat.io/fr/categories/"
                 />
   </url>
   
   <url>
-    <loc>https://qneyrat.github.io/fr/tags/</loc>
+    <loc>https://quentin.neyrat.io/fr/tags/</loc>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://qneyrat.github.io/tags/"
+                href="https://quentin.neyrat.io/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://qneyrat.github.io/fr/tags/"
+                href="https://quentin.neyrat.io/fr/tags/"
                 />
   </url>
   
   <url>
-    <loc>https://qneyrat.github.io/fr/</loc>
+    <loc>https://quentin.neyrat.io/fr/</loc>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://qneyrat.github.io/"
+                href="https://quentin.neyrat.io/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://qneyrat.github.io/fr/"
+                href="https://quentin.neyrat.io/fr/"
                 />
   </url>
   
